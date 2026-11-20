@@ -12,9 +12,11 @@ Divyansh Tomar builds business systems, and writes the documents that run them. 
 
 Build this kind of thing too, or have a system that keeps breaking? Message me on **[LinkedIn](https://www.linkedin.com/in/divyanshtomarr)**. Say what you're building, or what's broken and what you've already tried.
 
+Two clients on camera, on the Tendsweb channel: [Analytix Group](https://www.youtube.com/watch?v=-M3JE8tnDuw) and [Bryan Mills](https://www.youtube.com/watch?v=ueF3geKLFoY).
+
 <picture><img src="./assets/banner-standard.svg" width="100%" alt="The standard. Where the drive comes from. Three stumps labelled consistency, discipline and fitness."></picture>
 
-Three things taken from years of watching No. 18 bat, and where each one shows up in the work.
+Three habits I learned watching No. 18 bat, and where each one shows up in the work.
 
 - **Consistency.** Same routine on a good day and a bad one. The source checker is built to run on a schedule, not on a mood.
 - **Discipline.** The dull step goes first. Each repo's README says what the tool is for and how to check it worked, before you run anything.
